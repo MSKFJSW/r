@@ -1,0 +1,7 @@
+{
+    "dockerComposeFile": [],
+    "workspaceFolder": "/home/rstudio/project",
+    "service": "rstudio",
+    "shutdownAction": "stopCompose",
+    "remoteUser": "rstudio"
+}
